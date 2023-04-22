@@ -4,9 +4,12 @@ This is a clone of Microsoft's official website made using just HTML and Tailwin
 
 ## Preview Images
 
-Click the image below to view a video preview of the website. 
+Click the link below to the image to have a video preview of the website. 
 
-[<img src="/Assets/ms-site-preview.png" width="50%">](https://vimeo.com/820048598 "Video preview")
+![ms-site-preview](https://user-images.githubusercontent.com/117712672/233769542-3730e620-116b-49cb-9c7b-f20366f8a755.png)
+
+
+[Video Preview](https://vimeo.com/820048598 "Video preview")
 
 
 ## Tech Stack
